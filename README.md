@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShadowCity — Urban Digital Twin (Hackathon MVP)
 
 A runnable, scenario-based neighbourhood digital twin prototype. It includes:
@@ -152,3 +153,7 @@ The app uses Gemini only to explain computed results. It does not ask the model 
 - Replace heuristic flood score with calibrated runoff/hydraulic modelling (e.g. EPA SWMM/HEC-RAS workflows)
 - Add user-submitted observations with verification and timestamps
 - Add scenario versioning, exportable reports and model validation metrics
+=======
+# ShadowCity
+ShadowCity is an AI-powered urban digital twin that simulates floods, rainfall, drainage blockages, and road closures. It identifies vulnerable areas, analyses infrastructure disruptions, and helps users explore safer routes through interactive maps and simulations.
+>>>>>>> 118911286bb6b0d5875c490719ae6e656b7c8bbc
