@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ShadowCity — Urban Digital Twin (Hackathon MVP)
 
 A runnable, scenario-based neighbourhood digital twin prototype. It includes:
