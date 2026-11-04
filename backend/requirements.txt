@@ -4,3 +4,5 @@ django-cors-headers>=4.4
 networkx>=3.2
 numpy>=1.26
 google-generativeai>=0.8
+dj-database-url>=2.2
+psycopg[binary]>=3.2
