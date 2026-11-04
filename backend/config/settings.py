@@ -17,6 +17,7 @@ ALLOWED_HOSTS = [
     "testserver",
     ".vercel.app",
 ]
+
 if os.getenv("VERCEL_URL"):
     ALLOWED_HOSTS.append(os.getenv("VERCEL_URL"))
 
