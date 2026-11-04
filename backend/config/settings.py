@@ -9,7 +9,7 @@ SECRET_KEY = os.getenv(
     "dev-only-shadowcity-key-change-before-deployment"
 )
 
-DEBUG = os.getenv("DJANGO_DEBUG", "1") == "1"
+DEBUG = os.getenv("DJANGO_DEBUG", "0") == "1"
 
 ALLOWED_HOSTS = [
     "127.0.0.1",
